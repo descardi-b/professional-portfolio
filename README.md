@@ -2,11 +2,11 @@
   🌸 hey there! 🌸 
 </p>
 <p>
-  welcome to my homework 01 repo.
+  welcome to my professional portfolio repo.
 </p>
 
 <p>
-  here's the work i've done for the uc berkley coding bootcamp's module 1 challenge assignment. in this challenge, i was tasked with: 
+  here's the work i've done for the uc berkley coding bootcamp's module 2 challenge assignment. in this challenge, i was tasked with: 
 </p>
 <p>
 🍓 coding and designing a professional portfolio page froms cratch<br />
