@@ -14,7 +14,7 @@
 🍓 adding a little personality for spice<br />
 <p>
   here are some screenshots of my work: <img src="./assets/images/challenge-02-portfolio-01.png" alt="first screenshot of my professional portfolio"><img src="./assets/images/challenge-02-portfolio-02.png" alt="second screenshot of my professional portfolio">
-  <img src=".assets.images/challenge-02-portfolio-03.png" alt="third screenshot of my professional portfolio">
+  <img src="./assets.images/challenge-02-portfolio-03.png" alt="third screenshot of my professional portfolio">
 </p>
 <p>
   you can deploy the content yourself at the <a href="https://descardi-b.github.io/professional-portfolio/">gitpages link here</a>
