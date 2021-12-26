@@ -16,5 +16,5 @@
   here are some screenshots of my work: <img src="./assets/images/Horiseon-01.png" alt="first screenshot of the Horiseon webpage"><img src="./assets/images/Horiseon-02.png" alt="second screenshot of the Horiseon webpage">
 </p>
 <p>
-  you can deploy the content yourself at the <a href="https://descardi-b.github.io/homework-01/">gitpages link here</a>
+  you can deploy the content yourself at the <a href="https://descardi-b.github.io/professional-portfolio/">gitpages link here</a>
 </p>
