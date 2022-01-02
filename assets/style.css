@@ -124,18 +124,18 @@ footer {
 }
 
 /* media queries for screens less than 980px */
-@media screen and (max-width: 980px) and (min-width: 575px) {
+@media screen and (max-width: 980px) {
    
     footer {
         font-size: 20px;
     }
     
     h1 {
-        font-size: 150px;
+        font-size: 100px;
         color: rgb(255, 234, 254);
         -webkit-text-stroke: 3px #F8F8F8;
         text-shadow: 0px 5px 10px pink;        
-        width: 100%;
+        max-width: 100%;
         font-weight: bolder;
         margin: 0px;
         justify-content: center;
@@ -163,6 +163,7 @@ footer {
         display: inline;
         font-size: 30px;
         flex-wrap: wrap;
+        max-width: 40%;
         justify-content: center;
     }
 
@@ -171,16 +172,14 @@ footer {
     }
 
     .info h2 {
-        background-color:rgba(255, 136, 205, 0.6);
         max-width: 20%;
         max-height: 100%;
-        border-radius: 50%;
         margin: auto;
         font-size: 72px;
     }
 
     .info p {
-        font-size: 20px;
+        font-size: 30px;
         margin-top: 10px;
         flex-wrap: wrap;
     }
@@ -189,10 +188,27 @@ footer {
         margin-top: 20px;
     }
 
+    .nav {
+        text-align: center;
+    }
+
     .nav li {
-        margin: 40px;
+        margin: 30px;
+        font-size: 40px;
         display: inline;
         flex-wrap: wrap;
+    }
+
+    .headshot img {
+        max-width: 60%;
+    }
+
+    .run-buddy img {
+        max-width: 600px;
+    }
+
+    .horiseon img {
+        max-width: 500px;
     }
 
     #strawberry {
@@ -202,22 +218,23 @@ footer {
     .emoji {
         display: none;
     }
+}
 
-    .info p {
-        font-size: 30px;
+/* media queries for screens less than 768px */
+
+@media screen and (max-width: 768px) {
+    
+    .headshot img {
+        max-width: 65%;
     }
 }
 
 /* media queries for screens less than 575px */
 
 @media screen and (max-width: 575px) {
-    h1 {
-        font-size: 250px;
-        flex: 1 100%;
+
+    .headshot img {
+        max-width: 70%;
     }
 
-    li {
-        margin: 100px 0 100px 0px;
-        font-size: 100px;
-    }
 }
