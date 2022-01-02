@@ -139,6 +139,8 @@ footer {
         font-weight: bolder;
         margin: 0px;
         justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
     }
 
     .info section {
@@ -200,15 +202,15 @@ footer {
     }
 
     .headshot img {
-        max-width: 60%;
+        max-width: 70%;
     }
 
     .run-buddy img {
-        max-width: 600px;
+        max-width: 80%;
     }
 
     .horiseon img {
-        max-width: 500px;
+        max-width: 70%;
     }
 
     #strawberry {
@@ -234,7 +236,7 @@ footer {
 @media screen and (max-width: 575px) {
 
     .headshot img {
-        max-width: 70%;
+        max-width: 60%;
     }
 
 }
